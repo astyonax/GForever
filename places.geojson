@@ -1,4 +1,0 @@
-var data = {"type": "FeatureCollection", "features": [{"geometry": {"type": "Point", "coordinates": [12.5132424, 45.7916658]}, "type": "Feature", "properties": {"popupContent": "Chiesa id/Church of Fratta di Oderzo"}}, {"geometry": {"type": "Point", "coordinates": [12.3888369, 45.796904]}, "type": "Feature", "properties": {"popupContent": "Gambrinus"}}, {"geometry": {"type": "Point", "coordinates": [12.4973111, 45.77976460000001]}, "type": "Feature", "properties": {"popupContent": "Oderzo"}}, {"geometry": {"type": "Point", "coordinates": [12.2430437, 45.6668893]}, "type": "Feature", "properties": {"popupContent": "Train station Treviso"}}, {"geometry": {"type": "Point", "coordinates": [12.2020813, 45.6532764]}, "type": "Feature", "properties": {"popupContent": "Airport Venice (Treviso)"}}]};
-
-var mlat = 45.779765;
-var mlng = 12.497311;
