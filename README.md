@@ -1,2 +1,2 @@
 #A private website
-https://astyonax.github.io/gforever
+https://astyonax.github.io/GForever
